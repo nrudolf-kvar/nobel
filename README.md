@@ -1,0 +1,1 @@
+Szoftverfejlesztő programozási vizsgafeladat
